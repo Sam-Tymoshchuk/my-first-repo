@@ -1,28 +1,20 @@
-# This is a large heading
+# Semen Tymoshchuk
+## Just a good guy
 
-## This is a smaller heading
+### My location
+I am from Zhytomyr, a nice city 130 km west from capital of Ukraine. But at the moment I live and work in Kiev.
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### My goals
+I want to dive into the world of DeOps. Learn to get most of modern technologies and to define new ones.
 
-- This is
-- an unordered
-- list
+### I am good in:
+- Fast figuring out on what to do
+- Taking accountability for tasks
+- Administrating Windows and related technologies
 
-1. This is
-2. an ordered
-3. list
+### I am learning hard:
+1. UNIX, Ubuntu, Bash.
+2. Python, C#, JS, PowerShell.
+3. AWS, Azure, Containers, DevOps
 
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+The best way to get in touch with me is to [email](sam.tymoshchuk@gmail.com)
